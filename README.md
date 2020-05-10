@@ -9,4 +9,4 @@ Ogame，简称OG，一款世界上最火的战争策略类网页游戏之一，�
 
 # 游戏交流与反馈
 qq群：636741514  
-![群分享](static/qqqun.png)
+![群分享](static/qqqun.jpg)
